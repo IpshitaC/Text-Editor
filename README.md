@@ -19,13 +19,13 @@ This was developed as a beginner level hobby project.
 * Java AWT Package
 
 ## Demo
-This is the text area of the editor.
+* ### This is the text area of the editor.
 ![](https://github.com/IpshitaC/Text-Editor/blob/master/assets/text_editor_demo.png)
 
-This is the Save As operation.
+* ### This is the Save As operation.
 ![](https://github.com/IpshitaC/Text-Editor/blob/master/assets/text_editor_demo_save.png)
 
-This is the Open operation.
+* ### This is the Open operation.
 ![](https://github.com/IpshitaC/Text-Editor/blob/master/assets/text_editor_open_demo.png)
 
 ## Contributing
