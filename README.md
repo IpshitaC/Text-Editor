@@ -1,4 +1,4 @@
-# Text-Editor
+# :memo: Text-Editor
 
 
 ### Table of Contents
